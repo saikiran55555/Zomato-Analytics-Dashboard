@@ -1,4 +1,4 @@
-# Zomato Analytics Dashboard | Power BI
+# Zomato Analytics Dashboard | Power BI | Mysql | Excel | Tableau
 
 ## Project Overview
 Built an end-to-end analytics dashboard analyzing 10,000+ Zomato 
