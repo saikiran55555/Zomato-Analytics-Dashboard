@@ -13,6 +13,9 @@ orders to track revenue, delivery performance, and customer behavior.
 ## Tools Used
 - Power BI (DAX, Power Query, Slicers, Drill-downs)
 - SQL (data extraction and transformation)
+- Tableau (Calculated Fields, Parameters, Groups)
+- Excel (Charts, Pivot Tables, Slicers)
+- Power Point (PPT Presentation)
 
 ## Dashboard Features
 - Real-time KPI tracking
